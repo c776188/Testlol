@@ -1,8 +1,6 @@
 # lol 戰績網 爬蟲 測試
 
 使用golang</br>
-|-env</br>
-    LOL_ID=~~~</br>
 </br>
 go get github.com/PuerkitoBio/goquery</br>
 go get github.com/joho/godotenv</br>
